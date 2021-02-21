@@ -1,0 +1,32 @@
+/* **** tablas ******* */
+.container-both-tables {
+    justify-content: center;
+    scroll-snap-type: none;
+}
+.container-both-tables::-webkit-scrollbar {
+    opacity: 0;
+}
+
+.main-currency-table, .second-table-main {
+    margin: 0 20px;
+}
+
+
+/* **** planes ****** */
+.plans-container--slider {
+    margin: 0 auto;
+    justify-content: center;
+    scroll-snap-type: none;
+}
+.plans-container--slider::-webkit-scrollbar {
+    opacity: 0;
+}
+
+.plans--container-card {
+    margin: 50px 15px 0;
+}
+
+
+.card--arrow-right, .card--arrow-left {
+    opacity: 0;
+}

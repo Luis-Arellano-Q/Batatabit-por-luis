@@ -1,0 +1,15 @@
+/* **** tablas ******* */
+.main-currency-table, .second-table-main {
+    margin: 0 50px;
+}
+
+
+/* **** planes ****** */
+.plans-container--slider {
+    margin: 0px 100px 0px 80px;
+}
+
+.plans--container-card {
+    margin: 50px 40px 0;
+}
+
